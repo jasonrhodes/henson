@@ -1,0 +1,26 @@
+{
+  "name": "henson",
+  "version": "1.0.0",
+  "description": "a cool puppeteer lib, probably",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonrhodes/henson.git"
+  },
+  "keywords": [
+    "google",
+    "puppeteer",
+    "chromium",
+    "headless",
+    "jest"
+  ],
+  "author": "Jason Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonrhodes/henson/issues"
+  },
+  "homepage": "https://github.com/jasonrhodes/henson#readme"
+}
